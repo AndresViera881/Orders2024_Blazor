@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\obj\\Debug\\net8.0\\compressed\\69wt22cduf.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Orders.Frontend.styles.css",
+      "PackagePath": "staticwebassets\\Orders.Frontend.styles.css"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Frontend\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Orders.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Orders.Frontend.props",
+      "PackagePath": "build\\Orders.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Orders.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\Orders.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Orders.Frontend.props",
+      "PackagePath": "buildTransitive\\Orders.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
