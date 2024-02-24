@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6557DA56-9579-4027-9E1C-994C9CBB8707}|Orders.Backend\\Orders.Backend.csproj|d:\\visual studio\\net8\\orders2024_blazor\\orders\\orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557DA56-9579-4027-9E1C-994C9CBB8707}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6557DA56-9579-4027-9E1C-994C9CBB8707}|Orders.Backend\\Orders.Backend.csproj|d:\\visual studio\\net8\\orders2024_blazor\\orders\\orders.backend\\controllers\\paisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557DA56-9579-4027-9E1C-994C9CBB8707}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\controllers\\paisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Orders.Backend\\Program.cs",
+              "ToolTip": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Backend\\Program.cs",
+              "RelativeToolTip": "Orders.Backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:43:21.446Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:471218599:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -30,6 +52,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaisesController.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Backend\\Controllers\\PaisesController.cs",
+              "RelativeDocumentMoniker": "Orders.Backend\\Controllers\\PaisesController.cs",
+              "ToolTip": "D:\\Visual Studio\\Net8\\Orders2024_Blazor\\Orders\\Orders.Backend\\Controllers\\PaisesController.cs",
+              "RelativeToolTip": "Orders.Backend\\Controllers\\PaisesController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwD8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:32:14.056Z",
+              "EditorCaption": ""
             }
           ]
         },

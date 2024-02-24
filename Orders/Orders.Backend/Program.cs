@@ -26,6 +26,13 @@ builder.Services.AddDbContext<DataDbContext>(options =>
 
 var app = builder.Build();
 
+app.UseCors(c => 
+c.AllowAnyMethod()
+.AllowAnyHeader()
+.SetIsOriginAllowed(origin => true)
+.AllowCredentials());
+
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
